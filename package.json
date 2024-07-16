@@ -46,7 +46,7 @@
 	"homepage": "https://discord.js.org",
 	"funding": "https://github.com/discordjs/discord.js?sponsor",
 	"dependencies": {
-		"@discordjs/api-extractor-model": "workspace:^",
+		"@discordjs/api-extractor-model": "git+https://github.com/ItzFerr/djs-e-m.git",
 		"@microsoft/tsdoc": "0.14.2"
 	},
 	"devDependencies": {
